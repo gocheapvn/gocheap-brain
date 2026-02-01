@@ -42,3 +42,6 @@ WORKDIR /root/clawd
 
 # Expose the gateway port
 EXPOSE 18789
+
+CMD ["/usr/local/bin/start-moltbot.sh"]
+
