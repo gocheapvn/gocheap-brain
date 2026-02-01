@@ -5,7 +5,7 @@
     }
   },
   "gateway": {
-    "port": 15789,
+    "port": 18789,
     "mode": "local"
   }
 }
